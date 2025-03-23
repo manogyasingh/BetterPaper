@@ -29,14 +29,14 @@ cd betterpaper
 pip install -r requirements.txt
 ```
 
-3. Make the main script executable:
+3. Make the launcher script executable:
 ```
-chmod +x main.py
+chmod +x launcher.py
 ```
 
 4. Run the application:
 ```
-./main.py
+./launcher.py
 ```
 
 ## Usage
