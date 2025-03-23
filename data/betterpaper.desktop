@@ -2,7 +2,7 @@
 Name=Better Paper
 Comment=A better wallpaper setting application for GNOME
 Exec=/home/manogya/Desktop/betterpaper/launcher.py
-Icon=preferences-desktop-wallpaper
+Icon=/home/manogya/Desktop/betterpaper/BetterPaper.jpeg
 Terminal=false
 Type=Application
 Categories=GTK;GNOME;Utility;
