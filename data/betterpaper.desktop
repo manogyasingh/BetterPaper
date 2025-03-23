@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Better Paper
+Comment=A better wallpaper setting application for GNOME
+Exec=/home/manogya/Desktop/betterpaper/main.py
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Utility;
+Keywords=Wallpaper;Background;
+StartupNotify=true
